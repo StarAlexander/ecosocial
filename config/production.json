@@ -1,0 +1,5 @@
+{
+	"port": 80,
+	"jwtSecret": "alexander",
+	"baseUrl": "http://eco-social-mtkp.ru"
+}
